@@ -17,10 +17,10 @@ redirect_from:
 
 <div style="line-height: 1.5em; font-size: 0.8em">
 
-  I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory), with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am collaborating with Professor Zhengwu Zhang at UNC.<br><br>
+  I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory)</a>, with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am collaborating with Professor Zhengwu Zhang at UNC.<br><br>
   Prior to this, I completed my Bachelor's degree in Applied Mathematics at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>. Additionally, I completed the first two years of my university studies in Suzhou, China at <a href="https://www.xjtlu.edu.cn">XJTLU</a>. 
+</div>
 
-  </div>
 
   ## Contact me via:  
 
@@ -44,10 +44,10 @@ redirect_from:
   
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/unclogo.png' width="200">
+      <img src='images/unclogo.png' width="200" height="150">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://grainger.illinois.edu">The Department of STOR</a>, University of North Carolina at Chapel Hill.</b>
+      <b><a href="https://stor.unc.edu/">The Department of STOR</a>, University of North Carolina at Chapel Hill.</b>
       <br>
       Master in Statistics, Analytics and Data Science.(Aug. 2023 - Now)
       <br>
@@ -56,10 +56,10 @@ redirect_from:
 
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/liverpoollogo.png' width="200">
+      <img src='images/liverpoollogo.png' width="200" height="150">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b> <a href="https://www.liverpool.ac.uk/mathematical-sciences/">  Department of Mathematical Science</a>, University of Liverpool.</b>
+      <b> <a href="https://www.liverpool.ac.uk/mathematical-sciences/">Department of Mathematical Science</a>, University of Liverpool.</b>
       <br>
       Bachelor of Science in Applied Mathematics.(Sept. 2021 - Jun. 2023)
       <br>
@@ -68,7 +68,7 @@ redirect_from:
   
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/xjtlulogo.png' width="200">
+      <img src='images/xjtlulogo.png' width="200" height="150">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <a href="https://www.xjtlu.edu.cn/zh"><b>Xi'an Jiaotong-Liverpool University</b></a>.
@@ -83,11 +83,11 @@ redirect_from:
 <div>
   <div style="line-height: 1.5em; font-size: 0.8em">
   Past experence in UoL: <br><br>
-  MTH 142 TA      -- 2022 Fall Semester
+  MTH 142 TA      -- 2022 Fall Semester<br>
   MTH 113 TA       -- 2023 Spring Semester<br>
 
   Past experence in UNC: <br><br>
-  STOR 445 IA      -- 2023 Fall Semester
+  STOR 445 IA      -- 2023 Fall Semester<br>
   STOR 155 TA       -- 2024 Spring Semester<br>
   
   </div>

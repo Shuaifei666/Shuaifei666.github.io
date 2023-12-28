@@ -1,6 +1,7 @@
 ---
+layout: archive
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yifei Zhang | 张逸飞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +9,99 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![BS](https://img.shields.io/badge/B.S.-University%20of%20Liverpool(Applied%20Mathematics)%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=orange)
+![MS](https://img.shields.io/badge/M.S.-University%20of%20North%20Carolina%20at%20Chapel%20Hill%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<!-------------------->
+## Greatings! / 你好! / 안녕하세요! / こんにちは! / Hola! / Ciao! / Привет！
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div style="line-height: 1.5em; font-size: 0.8em">
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory), with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am collaborating with Professor Zhengwu Zhang at UNC.<br><br>
+  Prior to this, I completed my Bachelor's degree in Applied Mathematics at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>. Additionally, I completed the first two years of my university studies in Suzhou, China at <a href="https://www.xjtlu.edu.cn">XJTLU</a>. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  </div>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+  ## Contact me via:  
 
-**Markdown generator**
+  <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.8em;">University Mail: <a href="mailto:yifzhang@unc.edu">yifzhang[at]unc[dot]edu</a> or Persional Mail:<a href="mailto:shuaidebuxing66@gmail.com">shuaidebuxing66[at]gmail[dot]com</a></font>
+<br>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## What's new:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<div style="line-height: 1.5em; font-size: 0.8em">
+  <p>
+  <b>[10/2023]</b> Excited to join the Advanced Computational Medicine Laboratory, working with Professor Guorong Wu. <br>
+  <b>[07/2023]</b> Proudly graduated from University of Liverpool with First class Honor in Applied Mathematics!  <br>
+  <b>[03/2023]</b> Published my first paper on Journal of Computer Science!<br>
+  <b>[03/2023]</b> Thrilled to have been admitted to the UNC Master's program in STANDS!<br>
+  </p>
+</div>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Experience
+<!-- <h2><b>Experience</b></h2> -->
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.8em;">
+  
+  <tr>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <img src='images/unclogo.png' width="200">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b><a href="https://grainger.illinois.edu">The Department of STOR</a>, University of North Carolina at Chapel Hill.</b>
+      <br>
+      Master in Statistics, Analytics and Data Science.(Aug. 2023 - Now)
+      <br>
+    </td>
+  </tr>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+  <tr>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <img src='images/liverpoollogo.png' width="200">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b> <a href="https://www.liverpool.ac.uk/mathematical-sciences/">  Department of Mathematical Science</a>, University of Liverpool.</b>
+      <br>
+      Bachelor of Science in Applied Mathematics.(Sept. 2021 - Jun. 2023)
+      <br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <img src='images/xjtlulogo.png' width="200">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <a href="https://www.xjtlu.edu.cn/zh"><b>Xi'an Jiaotong-Liverpool University</b></a>.
+      <br>
+      Bachelor of Science in Applied Mathematics.(Sept. 2019 - Jun. 2023)
+      <br>
+    </td>
+  </tr>
+</table>
+
+## Teaching Experience 
+<div>
+  <div style="line-height: 1.5em; font-size: 0.8em">
+  Past experence in UoL: <br><br>
+  MTH 142 TA      -- 2022 Fall Semester
+  MTH 113 TA       -- 2023 Spring Semester<br>
+
+  Past experence in UNC: <br><br>
+  STOR 445 IA      -- 2023 Fall Semester
+  STOR 155 TA       -- 2024 Spring Semester<br>
+  
+  </div>
+</div>
+
+## Review
+<div style="width: 70%; margin-left: 0; position: relative; z-index: 1000;">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=n&d=VCWWBgKqEMgmcCbiQIfHQEbjof7zEBNTXPZDf91Iags&co=ffffff&cmo=8692ff&cmn=00cf84&ct=000000'></script>
+</div>
+
+## Interests
+
+<div style="line-height: 1.5em; font-size: 0.8em">
+
+As a passionate League of Legends player, my favorite LPL team is WE, and I often play as ADC on the N.A. server under the ID "CSPHD". Apart from gaming, I dedicate a significant portion of my time to working out and photography. Feel free to explore some of my photography work in the <a href ="https://seanzh30.github.io//gallery/">gallery</a>.
+
+</div>

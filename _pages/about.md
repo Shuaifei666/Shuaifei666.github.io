@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ![BS](https://img.shields.io/badge/B.S.-University%20of%20Liverpool(Applied%20Mathematics)%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=orange)
-![MS](https://img.shields.io/badge/M.S.-University%20of%20North%20Carolina%20at%20Chapel%20Hill%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
+![MS](https://img.shields.io/badge/M.S.-University%20of%20North%20Carolina%20at%20Chapel%20Hill(Statistics)%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
 ## Greatings! / 你好! / 안녕하세요! / こんにちは! / Hola! / Ciao! / Привет！
@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="line-height: 1.5em; font-size: 0.8em">
 
-  I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory)</a>, with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am collaborating with Professor Zhengwu Zhang at UNC.<br><br>
+  I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory)</a>, with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am also collaborating with Professor Zhengwu Zhang at UNC.<br><br>
   Prior to this, I completed my Bachelor's degree in Applied Mathematics at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>. Additionally, I completed the first two years of my university studies in Suzhou, China at <a href="https://www.xjtlu.edu.cn">XJTLU</a>. 
 </div>
 

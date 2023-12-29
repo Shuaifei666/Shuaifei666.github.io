@@ -29,9 +29,16 @@ author_profile: true
       <img src='/images/Paris.jpg' style="border-radius:20px;">
       </a>
     </td>
+     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <center>Sunrise @Chapel Hill, USA</center>
+      <a href="/images/sunrise.jpg">
+      <img src='/images/sunrise.jpg' style="border-radius:20px;">
+      </a>
+    </td>
     
   </tr>  
-  <tr>
+
+<tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Westlife! @Liverpool, UK</center>
       <a href="/images/westlife.jpg">
@@ -46,7 +53,7 @@ author_profile: true
     </td>
   </tr>  
 
-  <tr>
+<tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>I graduated from UoL! @Liverpool, UK</center>
       <a href="/images/grad.jpg">
@@ -68,15 +75,20 @@ author_profile: true
       <img src='/images/flower.jpg' style="border-radius:20px;">
       </a>
     </td>
-    
-  </tr>  
-
-  
-<tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Daze @Barcelona, Spain</center>
       <a href="/images/spain.jpg">
       <img src='/images/spain.jpg' style="border-radius:20px;">
+      </a>
+    </td>
+  </tr>  
+
+
+<tr>
+   <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <center>Gym(Thanks for the light) @Liverpool, UK</center>
+      <a href="/images/gym2.jpg">
+      <img src='/images/gym2.jpg' style="border-radius:20px;">
       </a>
     </td>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
@@ -87,15 +99,7 @@ author_profile: true
     </td>
   </tr>  
 
-<tr>
-    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
-    <center>Sunrise @Chapel Hill, USA</center>
-      <a href="/images/sunrise.jpg">
-      <img src='/images/sunrise.jpg' style="border-radius:20px;">
-      </a>
-    </td>
-    
-  </tr>  
+
 
 <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
@@ -105,9 +109,9 @@ author_profile: true
       </a>
     </td>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
-    <center>Gym(Thanks for the light) @Liverpool, UK</center>
-      <a href="/images/gym2.jpg">
-      <img src='/images/gym2.jpg' style="border-radius:20px;">
+    <center>Noodels~ @Liverpool, UK</center>
+      <a href="/images/noodel.jpg">
+      <img src='/images/noodel.jpg' style="border-radius:20px;">
       </a>
     </td>
   </tr>  
@@ -128,12 +132,6 @@ author_profile: true
   </tr>  
 
   <tr>
-    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
-    <center>Noodels~ @Liverpool, UK</center>
-      <a href="/images/noodel.jpg">
-      <img src='/images/noodel.jpg' style="border-radius:20px;">
-      </a>
-    </td>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Dumplings~ @Chapel Hill, USA</center>
       <a href="/images/dum.jpg">

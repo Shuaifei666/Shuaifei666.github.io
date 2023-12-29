@@ -23,7 +23,7 @@ author_profile: true
   </tr>  
 
 <tr>
-    <td style="padding:8px;width:100%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Seine  @Paris, France</center>
       <a href="/images/Paris.jpg">
       <img src='/images/Paris.jpg' style="border-radius:20px;">
@@ -60,8 +60,9 @@ author_profile: true
       </a>
     </td>
   </tr>  
+
 <tr>
-    <td style="padding:8px;width:100%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Flowers in the Wind @Suzhou, CN</center>
       <a href="/images/flower.jpg">
       <img src='/images/flower.jpg' style="border-radius:20px;">
@@ -69,6 +70,8 @@ author_profile: true
     </td>
     
   </tr>  
+
+  
 <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Daze @Barcelona, Spain</center>
@@ -85,7 +88,7 @@ author_profile: true
   </tr>  
 
 <tr>
-    <td style="padding:8px;width:100%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Sunrise @Chapel Hill, USA</center>
       <a href="/images/sunrise.jpg">
       <img src='/images/sunrise.jpg' style="border-radius:20px;">

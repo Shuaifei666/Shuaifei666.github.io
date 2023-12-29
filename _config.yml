@@ -85,11 +85,11 @@ author:
   bio              : "Master student in Statistics @UNC"
   location         : Chapel Hill, NC, US
   employer         : University of North Carolina at Chapel Hill
-  CV               : "https://shuaifei666.github.io/files/CV.pdf"
+  CV/Resume        : "https://shuaifei666.github.io/files/CV.pdf"
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.unc.edu/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :

@@ -59,7 +59,7 @@ redirect_from:
 
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/liverpoollogo.png' width="200" height="150">
+      <img src='images/liverpoollogo.png' width="200" height="100">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b> <a href="https://www.liverpool.ac.uk/mathematical-sciences/">Department of Mathematical Science</a>, University of Liverpool.</b>
@@ -71,12 +71,12 @@ redirect_from:
   
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/xjtlulogo.jpeg' width="200" height="150">
+      <img src='images/xjtlulogo.png' width="200" height="100">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <a href="https://www.xjtlu.edu.cn/zh"><b>Xi'an Jiaotong-Liverpool University</b></a>.
+    <b> <a href="https://www.xjtlu.edu.cn/zh">Department of Mathematical Science</a>, Xi'an Jiaotong-Liverpool University.</b>
       <br>
-      Bachelor of Science in Applied Mathematics.(Sept. 2019 - Jun. 2023)
+       Bachelor of Science in Applied Mathematics.(Sept. 2019 - Jun. 2023)
       <br>
     </td>
   </tr>

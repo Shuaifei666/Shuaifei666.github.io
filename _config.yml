@@ -83,8 +83,8 @@ author:
   name             : "Yifei Zhang"
   avatar           : "profile.jpg"
   bio              : "Master student in Statistics @UNC"
-  location         : "Chapel Hill, NC, US"
-  employer         : "University of North Carolina at Chapel Hill"
+  location         : Chapel Hill, NC, US
+  employer         : University of North Carolina at Chapel Hill
   CV               : "https://shuaifei666.github.io/files/CV.pdf"
   googlescholar    : 
   email            :
@@ -97,7 +97,6 @@ author:
   facebook         :
   foursquare       :
   github           : "Shuaifei666"
-  google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"

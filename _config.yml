@@ -83,9 +83,9 @@ author:
   name             : "Yifei Zhang"
   avatar           : "profile.jpg"
   bio              : "Master student in Statistics @UNC"
-  location         : Chapel Hill, NC, US
+  location         :
   employer         : University of North Carolina at Chapel Hill
-  CV/Resume        : "https://shuaifei666.github.io/files/CV.pdf"
+  cv               : "https://shuaifei666.github.io/files/CV.pdf"
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

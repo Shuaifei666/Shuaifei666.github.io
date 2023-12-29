@@ -50,7 +50,7 @@ redirect_from:
       <img src='images/unclogo.png' width="200" height="150">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://stor.unc.edu/">The Department of STOR</a>, University of North Carolina at Chapel Hill.</b>
+      <b><a href="https://stor.unc.edu/">Department of STOR</a>, University of North Carolina at Chapel Hill.</b>
       <br>
       Master in Statistics, Analytics and Data Science.(Aug. 2023 - Now)
       <br>
@@ -74,7 +74,7 @@ redirect_from:
       <img src='images/xjtlulogo.png' width="200" height="100">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-    <b> <a href="https://www.xjtlu.edu.cn/zh">Department of Mathematical Science</a>, Xi'an Jiaotong-Liverpool University.</b>
+    <b> <a href="https://www.xjtlu.edu.cn/en/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, Xi'an Jiaotong-Liverpool University.</b>
       <br>
        Bachelor of Science in Applied Mathematics.(Sept. 2019 - Jun. 2023)
       <br>

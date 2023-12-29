@@ -15,6 +15,8 @@ redirect_from:
 <!-------------------->
 ## Greatings! / 你好! / 안녕하세요! / こんにちは! / Hola! / Ciao! / Привет！
 
+
+
 <div style="line-height: 1.5em; font-size: 0.8em">
 
   I am currently pursuing my Master's degree in Statistics, Analytics and Data Science (STANDS) at the <a href="https://stor.unc.edu/">STOR Department</a>, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently working as the Intern Research Assistant in the  <a href="https://www.acmlab.org/">ACM Lab(Advanced Computational Medicine Laboratory)</a>, with a focus on <b>ML in Neuro Science Application</b> ,<b>Brain Network Analysis</b> and <b>Optimized in Diffusion MRI</b>. I am collaborating with Professor Zhengwu Zhang at UNC.<br><br>
@@ -22,9 +24,10 @@ redirect_from:
 </div>
 
 
-  ## Contact me via:  
+## Contact me via:  
 
-  <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.8em;">University Mail: <a href="mailto:yifzhang@unc.edu">yifzhang[at]unc[dot]edu</a> or Persional Mail:<a href="mailto:shuaidebuxing66@gmail.com">shuaidebuxing66[at]gmail[dot]com</a></font>
+  <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.8em;">
+  University Mail: <a href="mailto:yifzhang@unc.edu">yifzhang[at]unc[dot]edu</a> or Persional Mail:<a href="mailto:shuaidebuxing66@gmail.com">shuaidebuxing66[at]gmail[dot]com</a></font>
 <br>
 
 ## What's new:
@@ -68,7 +71,7 @@ redirect_from:
   
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/xjtlulogo.png' width="200" height="150">
+      <img src='images/xjtlulogo.jpeg' width="200" height="150">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <a href="https://www.xjtlu.edu.cn/zh"><b>Xi'an Jiaotong-Liverpool University</b></a>.
@@ -84,7 +87,7 @@ redirect_from:
   <div style="line-height: 1.5em; font-size: 0.8em">
   Past experence in UoL: <br><br>
   MTH 142 TA      -- 2022 Fall Semester<br>
-  MTH 113 TA       -- 2023 Spring Semester<br>
+  MTH 113 TA       -- 2023 Spring Semester<br><br>
 
   Past experence in UNC: <br><br>
   STOR 445 IA      -- 2023 Fall Semester<br>
@@ -93,15 +96,12 @@ redirect_from:
   </div>
 </div>
 
-## Review
-<div style="width: 70%; margin-left: 0; position: relative; z-index: 1000;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=n&d=VCWWBgKqEMgmcCbiQIfHQEbjof7zEBNTXPZDf91Iags&co=ffffff&cmo=8692ff&cmn=00cf84&ct=000000'></script>
-</div>
+
 
 ## Interests
 
 <div style="line-height: 1.5em; font-size: 0.8em">
 
-As a passionate League of Legends player, my favorite LPL team is WE, and I often play as ADC on the N.A. server under the ID "CSPHD". Apart from gaming, I dedicate a significant portion of my time to working out and photography. Feel free to explore some of my photography work in the <a href ="https://seanzh30.github.io//gallery/">gallery</a>.
+I'm someone who enjoys spending time at home cooking, gaming, and keeping fit. I'm a fan of games like CS:GO and LOL, though I admit I'm not the best at them. I have a particular fondness for console gaming and highly recommend 'Detroit: Become Human' to anyone who hasn't tried it yet – it's a must-play in my book! When holidays roll around, I love to switch things up and go out with friends. I've traveled to several European countries, including France, Belgium, Spain, and the Netherlands. Currently studying in the United States, I'm looking forward to exploring Canada and Mexico during my academic journey here.
 
 </div>
